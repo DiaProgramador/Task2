@@ -203,3 +203,21 @@ button:hover .circle .icon.arrow {
 button:hover .button-text {
     color: #fff;
 }
+
+/* SOBRE */
+#sobre {
+    margin: 5%;
+    padding: 10px;
+    border-bottom: 1px solid #fff;
+}
+
+#sobre h2 {
+    color: #fff;
+    font-family: "Bebas Neue", sans-serif;
+    margin-bottom: 10px;
+}
+
+#sobre p {
+    color: #b3b3b3;
+    font-family: "Montserrat", sans-serif;
+}
